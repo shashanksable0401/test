@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+html {
+  font-size: 62.5%; 
+}
+body {
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 1rem !important;
+}
+
+.card-header {
+  font-weight: 600;
+  opacity: .75;
+}
